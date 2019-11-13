@@ -104,9 +104,9 @@ a:hover {
 }
 
 #body .tags a.tag-link {
-    background-color: var(--MENU-HEADER-BG-color);
+    background-color: var(--MENU-SEARCH-BG-color);
 }
 
 #body .tags a.tag-link:before {
-    border-right-color: var(--MENU-HEADER-BG-color);
+    border-right-color: var(--MENU-SEARCH-BG-color);
 }
